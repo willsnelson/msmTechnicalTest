@@ -1,0 +1,20 @@
+{ 
+   "suppliers":[  
+      {  
+         "name":"Vodafone",
+         "websiteUrl":"www.vodafone.co.uk"
+      },
+      {  
+         "name":"British Gas",
+          "websiteUrl":"www.britishgas.co.uk"
+      },
+      {  
+         "name":"EE",
+         "websiteUrl":"www.ee.co.uk"
+      },
+      {  
+         "name":"e.on",
+         "websiteUrl":"www.eonenergy.com"
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{  
+   "customerAccounts":[  
+      {  
+         "name":"Will Snelson",
+         "emailAddress":"will.snelson14@gmail.com",
+         "address":"9 Brookhouse Close, Macclesfield, Cheshire",
+         "postcode":"SK103QF",
+	 	 "orders" : 19,
+	 	 "phonenumber":"07493094208"
+      },
+      {  
+         "name":"Mr Random",
+         "emailAddress":"random1@randome.com",
+         "address":"Random Address",
+         "postcode":"SK88PT",
+	     "orders" : 5,
+	 	 "phonenumber":"07777777777"
+      },
+      
+       {  
+         "name":"Bobb Riley",
+         "emailAddress":"bob.bob@rileyinc.com",
+         "address":"16 Mosslane, Congleton",
+         "postcode":"CW124SS",
+	 	 "orders" : 55,
+	 	 "phonenumber":"07891746736"
+      },
+      
+       {  
+         "name":"James Torch",
+         "emailAddress":"james.torch@torchinds.com",
+         "address":"77 Riverside, Manchester",
+         "postcode":"M174TK",
+	 	 "orders" : 2,
+	 	 "phonenumber":"07167473533"
+      },
+       {  
+         "name":"Dylan Apple",
+         "emailAddress":"dylan.apple@apple.com",
+         "address":"77 Riverside, Manchester",
+         "postcode":"M174TK",
+	 	 "orders" : 0,
+	 	 "phonenumber":"07984638293"
+      },
+       {  
+         "name":"Simon Morris",
+         "emailAddress":"simon_morris@gmail.com",
+         "address":"42 Eckles Street, Chester",
+         "postcode":"CH47ST",
+	 	 "orders" : 22,
+	 	 "phonenumber":"07847365262"
+      },
+   ]
+}

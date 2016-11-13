@@ -1,0 +1,40 @@
+{  
+   "suppliers":[  
+      {  
+         "name":"Vodafone",
+         "websiteUrl":"www.vodafone.co.uk"
+      },
+      {  
+         "name":"British Gas",
+          "websiteUrl":"www.britishgas.co.uk"
+      },
+      {  
+         "name":"EE",
+         "websiteUrl":"www.ee.co.uk"
+      },
+      {  
+         "name":"npower",
+         "websiteUrl":"www.npower.com"
+      },
+      {  
+         "name":"e.on",
+         "websiteUrl":"www.eonenergy.com"
+      },
+      {  
+         "name":"Scottish Power",
+         "websiteUrl":"www.scottishpower.co.uk"
+      },
+      {  
+         "name":"AXA",
+         "websiteUrl":"www.axa.co.uk"
+      },
+      {  
+         "name":"LV",
+         "websiteUrl":"www.lv.com"
+      },
+      {  
+         "name":"Discount Insurance",
+         "websiteUrl":"www.discountinsurance.co.uk"
+      },
+   ]
+}

@@ -1,0 +1,149 @@
+{  
+   "products":[  
+      {  
+         "name":"iPhone 7 32gb",
+         "description":"The latest iPhone",
+         "price":35,
+         "type":"electrical",
+         "supplier":"Vodafone",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      {  
+         "name":"iPhone 7 32gb",
+         "description":"The latest iPhone",
+         "price":32,
+         "type":"electrical",
+         "supplier":"EE",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      {  
+         "name":"Samsung Galaxy S7",
+         "description":"The latest Samsung",
+         "price":24.50,
+         "type":"electrical",
+         "supplier":"Vodafone",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      {  
+         "name":"Samsung Galaxy S7",
+         "description":"The latest Samsung",
+         "price":28.70,
+         "type":"electrical",
+         "supplier":"EE",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      
+       {  
+         "name":"HTC Desire 530",
+         "description":"The HTC Desire 530",
+         "price":7.50,
+         "type":"electrical",
+         "supplier":"EE",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      {  
+         "name":"HTC Desire 530",
+         "description":"The HTC Desire 530",
+         "price":105,
+         "type":"electrical",
+         "supplier":"EE",
+         "paymentType":"Up-front",
+         "monthlyPayments":0
+      },
+      {  
+         "name":"Gas",
+         "description":"Gas",
+         "price":32.80,
+         "type":"energy",
+         "supplier":"British Gas",
+         "paymentType":"Monthly",
+         "monthlyPayments":12
+      },
+      {  
+         "name":"Gas",
+         "description":"Gas",
+         "price":43.15,
+         "type":"energy",
+         "supplier":"e.on",
+         "paymentType":"Monthly",
+         "monthlyPayments":10
+      },
+      {  
+         "name":"Gas",
+         "description":"Gas",
+         "price":65,
+         "type":"energy",
+         "supplier":"Scottish Power",
+         "paymentType":"Monthly",
+         "monthlyPayments":4
+      },
+      {  
+         "name":"Electric",
+         "description":"Electric",
+         "price":14.50,
+         "type":"energy",
+         "supplier":"npower",
+         "paymentType":"Monthly",
+         "monthlyPayments":12
+      },
+      {  
+         "name":"Electric",
+         "description":"Electric",
+         "price":100,
+         "type":"energy",
+         "supplier":"Scottish Power",
+         "paymentType":"Up-front",
+         "monthlyPayments":0
+      },
+      {  
+         "name":"Electric",
+         "description":"Electric",
+         "price":12.90,
+         "type":"energy",
+         "supplier":"British Gas",
+         "paymentType":"Monthly",
+         "monthlyPayments":10
+      },
+      {  
+         "name":"Car Insurance",
+         "description":"Electric",
+         "price":100,
+         "type":"insurance",
+         "supplier":"LV",
+         "paymentType":"Monthly",
+         "monthlyPayments":10
+      },
+      {  
+         "name":"Home Insurance",
+         "description":"Discount Insurance provide comprehensive cover on a wide range of property types across the UK. They offer cover for those who have a history of bankruptcy or CCJs and also those who work or trade from home.",
+         "price":10,
+         "type":"insurance",
+         "supplier":"Discount Insurance",
+         "paymentType":"Monthly",
+         "monthlyPayments":120
+      },
+      {  
+         "name":"Landlord Insurance",
+         "description":"Discount Landlord are a landlord insurance broker offering quotes from a large number of UK insurers. Accidental damage and property owners liability cover are included as standard and multi-property discounts are also available. Apply online for a quote today.",
+         "price":100,
+         "type":"insurance",
+         "supplier":"Discount Landlord",
+         "paymentType":"Monthly",
+         "monthlyPayments":12
+      },
+      {  
+         "name":"Landlord Insurance",
+         "description":"AXA landlord insurance provides extensive cover to protect your property, with up to £10 million property owners’ liability cover and protection for up to 10 properties. Get covered from just £110 a year* – and save an extra 10% when you buy online. *10% paid this or less (04/16 – 06/16) typically for one property.",
+         "price":90,
+         "type":"insurance",
+         "supplier":"AXA",
+         "paymentType":"Monthly",
+         "monthlyPayments":12
+      }
+   ]
+}

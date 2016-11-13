@@ -1,0 +1,20 @@
+{  
+   "customerAccounts":[  
+      {  
+         "name":"Will Snelson",
+         "emailAddress":"will.snelson14@gmail.com",
+         "address":"9 Brookhouse Close, Macclesfield, Cheshire",
+         "postcode":"SK103QF",
+	 	 "orders" : 19,
+	 	 "phonenumber":"07493094208"
+      },
+      {  
+         "name":"Mr Random",
+         "emailAddress":"random1@randome.com",
+         "address":"Random Address",
+         "postcode":"SK88PT",
+	     "orders" : 5,
+	 	 "phonenumber":"07777777777"
+      }
+   ]
+}

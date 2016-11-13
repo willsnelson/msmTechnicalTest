@@ -1,0 +1,77 @@
+{  
+   "products":[  
+      {  
+         "name":"iPhone 7 32gb",
+         "description":"The latest iPhone",
+         "price":35,
+         "type":"electrical",
+         "supplier":"Vodafone",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      {  
+         "name":"iPhone 7 32gb",
+         "description":"The latest iPhone",
+         "price":32,
+         "type":"electrical",
+         "supplier":"EE",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      {  
+         "name":"Samsung Galaxy S7",
+         "description":"The latest Samsung",
+         "price":24.50,
+         "type":"electrical",
+         "supplier":"Vodafone",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      {  
+         "name":"Samsung Galaxy S7",
+         "description":"The latest Samsung",
+         "price":28.70,
+         "type":"electrical",
+         "supplier":"EE",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      
+       {  
+         "name":"HTC Desire 530",
+         "description":"The HTC Desire 530",
+         "price":7.50,
+         "type":"electrical",
+         "supplier":"EE",
+         "paymentType":"Monthly",
+         "monthlyPayments":24
+      },
+      {  
+         "name":"HTC Desire 530",
+         "description":"The HTC Desire 530",
+         "price":105,
+         "type":"electrical",
+         "supplier":"EE",
+         "paymentType":"Up-front",
+         "monthlyPayments":0
+      },
+      {  
+         "name":"Gas",
+         "description":"Gas",
+         "price":32.80,
+         "type":"energy",
+         "supplier":"British Gas",
+         "paymentType":"Monthly",
+         "monthlyPayments":12
+      },
+      {  
+         "name":"Gas",
+         "description":"Gas",
+         "price":43.15,
+         "type":"energy",
+         "supplier":"e.on",
+         "paymentType":"Monthly",
+         "monthlyPayments":10
+      }
+   ]
+}
