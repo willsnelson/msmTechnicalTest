@@ -69,7 +69,7 @@
          "description":"Gas",
          "price":43.15,
          "type":"energy",
-         "supplier":"e.on",
+         "supplier":"E.on",
          "paymentType":"Monthly",
          "monthlyPayments":10
       },
@@ -87,7 +87,7 @@
          "description":"Electric",
          "price":14.50,
          "type":"energy",
-         "supplier":"npower",
+         "supplier":"NPower",
          "paymentType":"Monthly",
          "monthlyPayments":12
       },

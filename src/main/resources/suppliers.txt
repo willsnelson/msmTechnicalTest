@@ -13,11 +13,11 @@
          "websiteUrl":"www.ee.co.uk"
       },
       {  
-         "name":"npower",
+         "name":"NPower",
          "websiteUrl":"www.npower.com"
       },
       {  
-         "name":"e.on",
+         "name":"E.on",
          "websiteUrl":"www.eonenergy.com"
       },
       {  

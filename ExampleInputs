@@ -1,0 +1,59 @@
+######################################################################
+NOTE:
+Any strings with spaces in them must be surounded by single quotes 
+i.e. 'Will Snelson' not Will Snelson.
+######################################################################
+
+Products:
+Filter by name:
+java -jar techtest-1-jar-with-dependencies.jar doctype=product filter=name:Gas;
+
+Filter by type:
+java -jar techtest-1-jar-with-dependencies.jar doctype=product filter=type:insurance;
+
+Filter by price:
+java -jar techtest-1-jar-with-dependencies.jar doctype=product filter=price:12.50-35;
+
+Order by price ascending:
+java -jar techtest-1-jar-with-dependencies.jar doctype=product sort=ascending:true;
+
+Order by price descending:
+java -jar techtest-1-jar-with-dependencies.jar doctype=product sort=descending:true;
+
+Order by product name alphabetically:
+java -jar techtest-1-jar-with-dependencies.jar doctype=product sort=alphabetically:true;
+
+Filter and Sort by any example:
+java -jar techtest-1-jar-with-dependencies.jar doctype=product sort=alphabetically:true filter=type:insurance,name:'Landlord Insurance';
+
+Customer Accounts:
+Filter by name
+java -jar techtest-1-jar-with-dependencies.jar doctype=account filter=name:'Will Snelson';
+
+Filter by postcode:
+java -jar techtest-1-jar-with-dependencies.jar doctype=account filter=postcode:SK103QF;
+
+Order by product name alphabetically:
+java -jar techtest-1-jar-with-dependencies.jar doctype=account sort=alphabetically:true;
+
+Order by number of orders ascending:
+java -jar techtest-1-jar-with-dependencies.jar doctype=account sort=numberOfOrders:ascending;
+
+Order by number of orders descending:
+java -jar techtest-1-jar-with-dependencies.jar doctype=account sort=numberOfOrders:descending;
+
+Filter and Sort by any example:
+java -jar techtest-1-jar-with-dependencies.jar doctype=account sort=alphabetically:true filter=postcode:SK103QF;
+
+Suppliers:
+Filter by name:
+java -jar techtest-1-jar-with-dependencies.jar doctype=supplier filter=name:Vodafone;
+
+Filter by products stocked:
+java -jar techtest-1-jar-with-dependencies.jar doctype=supplier filter=productsStocked:true;
+
+Order by product name alphabetically:
+java -jar techtest-1-jar-with-dependencies.jar doctype=supplier sort=alphabetically:true;
+
+Filter and Sort by any example:
+java -jar techtest-1-jar-with-dependencies.jar doctype=supplier sort=alphabetically:true filter=productsStocked:true;
